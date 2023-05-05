@@ -1,0 +1,382 @@
+[2023-05-05T18:07:26.764997 12344] === CCACHE 4.6 STARTED =========================================
+[2023-05-05T18:07:26.764997 16076] === CCACHE 4.6 STARTED =========================================
+[2023-05-05T18:07:26.765497 12168] === CCACHE 4.6 STARTED =========================================
+[2023-05-05T18:07:26.764997 12344] Config: (default) absolute_paths_in_stderr = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) base_dir = 
+[2023-05-05T18:07:26.764997 12344] Config: (environment) cache_dir = C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-05T18:07:26.764997 12344] Config: (default) compiler = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) compiler_check = mtime
+[2023-05-05T18:07:26.764997 12344] Config: (default) compiler_type = auto
+[2023-05-05T18:07:26.764997 12344] Config: (default) compression = true
+[2023-05-05T18:07:26.764997 12344] Config: (default) compression_level = 0
+[2023-05-05T18:07:26.764997 12344] Config: (default) cpp_extension = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) debug = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) debug_dir = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) depend_mode = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) direct_mode = true
+[2023-05-05T18:07:26.764997 12344] Config: (default) disable = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) extra_files_to_hash = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) file_clone = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) hard_link = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) hash_dir = true
+[2023-05-05T18:07:26.764997 12344] Config: (default) ignore_headers_in_manifest = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) ignore_options = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) inode_cache = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) keep_comments_cpp = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) limit_multiple = 0.8
+[2023-05-05T18:07:26.764997 12344] Config: (environment) log_file = C:\Users\Dyce3\OneDrive\Desktop\TURNCO~1\output\turncounter.build\ccache-15312.txt
+[2023-05-05T18:07:26.764997 12344] Config: (default) max_files = 0
+[2023-05-05T18:07:26.764997 12344] Config: (default) max_size = 5.0G
+[2023-05-05T18:07:26.764997 12344] Config: (default) namespace = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) path = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) pch_external_checksum = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) prefix_command = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) prefix_command_cpp = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) read_only = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) read_only_direct = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) recache = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) reshare = false
+[2023-05-05T18:07:26.764997 12344] Config: (default) run_second_cpp = true
+[2023-05-05T18:07:26.764997 12344] Config: (default) secondary_storage = 
+[2023-05-05T18:07:26.764997 12344] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-05T18:07:26.764997 12344] Config: (default) stats = true
+[2023-05-05T18:07:26.764997 12344] Config: (default) stats_log = 
+[2023-05-05T18:07:26.764997 12344] Config: (default) temporary_dir = C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-05T18:07:26.764997 12344] Config: (default) umask = 
+[2023-05-05T18:07:26.765497 12344] Command line: C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=155 -D_NUITKA_EXE -IC:\Users\Dyce3\AppData\Local\Programs\Python\Python311\include -I. -IC:\Users\Dyce3\AppData\Local\Programs\Python\PYTHON~1\Lib\SITE-P~1\nuitka\build\include -IC:\Users\Dyce3\AppData\Local\Programs\Python\PYTHON~1\Lib\S\nuitka\build\static_src __loader.c
+e.__main__.c
+) absolute_paths_in_stderr = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) base_dir = 
+[2023-05-05T18:07:26.765497 12168] Config: (environment) cache_dir = C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-05T18:07:26.765497 12168] Config: (default) compiler = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) compiler_check = mtime
+[2023-05-05T18:07:26.765497 12168] Config: (default) compiler_type = auto
+[2023-05-05T18:07:26.765497 12168] Config: (default) compression = true
+[2023-05-05T18:07:26.765497 12168] Config: (default) compression_level = 0
+[2023-05-05T18:07:26.765497 12168] Config: (default) cpp_extension = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) debug = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) debug_dir = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) depend_mode = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) direct_mode = true
+[2023-05-05T18:07:26.765497 12168] Config: (default) disable = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) extra_files_to_hash = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) file_clone = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) hard_link = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) hash_dir = true
+[2023-05-05T18:07:26.765497 12168] Config: (default) ignore_headers_in_manifest = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) ignore_options = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) inode_cache = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) keep_comments_cpp = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) limit_multiple = 0.8
+[2023-05-05T18:07:26.765497 12168] Config: (environment) log_file = C:\Users\Dyce3\OneDrive\Desktop\TURNCO~1\output\turncounter.build\ccache-15312.txt
+[2023-05-05T18:07:26.765497 12168] Config: (default) max_files = 0
+[2023-05-05T18:07:26.765497 12168] Config: (default) max_size = 5.0G
+[2023-05-05T18:07:26.765497 12168] Config: (default) namespace = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) path = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) pch_external_checksum = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) prefix_command = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) prefix_command_cpp = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) read_only = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) read_only_direct = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) recache = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) reshare = false
+[2023-05-05T18:07:26.765497 12168] Config: (default) run_second_cpp = true
+[2023-05-05T18:07:26.765497 12168] Config: (default) secondary_storage = 
+[2023-05-05T18:07:26.765497 12168] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-05T18:07:26.765497 12168] Config: (default) stats = true
+[2023-05-05T18:07:26.765497 12168] Config: (default) stats_log = 
+[2023-05-05T18:07:26.765497 12168] Config: (default) temporary_dir = C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-05T18:07:26.765497 12168] Config: (default) umask = 
+[2023-05-05T18:07:26.765497 12168] Command line: C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=155 -D_NUITKA_EXE -IC:\Users\Dyce3\AppData\Local\Programs\Python\Python311\include -I. -IC:\Users\Dyce3\AppData\Local\Programs\Python\PYTHON~1\Lib\SITE-P~1\nuitka\build\include -IC:\Users\Dyce3\AppData\Local\Programs\Python\PYTHON~1\Lib\SITE-P~1\nuitka\build\static_src __constants.c
+1\Lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2023-05-05T18:07:26.766500 18400] === CCACHE 4.6 STARTED =========================================
+[2023-05-05T18:07:26.766500 18400] Config: (default) absolute_paths_in_stderr = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) base_dir = 
+[2023-05-05T18:07:26.766500 18400] Config: (environment) cache_dir = C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-05T18:07:26.766500 18400] Config: (default) compiler = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) compiler_check = mtime
+[2023-05-05T18:07:26.766500 18400] Config: (default) compiler_type = auto
+[2023-05-05T18:07:26.766500 18400] Config: (default) compression = true
+[2023-05-05T18:07:26.766500 18400] Config: (default) compression_level = 0
+[2023-05-05T18:07:26.766500 18400] Config: (default) cpp_extension = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) debug = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) debug_dir = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) depend_mode = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) direct_mode = true
+[2023-05-05T18:07:26.766500 18400] Config: (default) disable = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) extra_files_to_hash = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) file_clone = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) hard_link = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) hash_dir = true
+[2023-05-05T18:07:26.766500 18400] Config: (default) ignore_headers_in_manifest = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) ignore_options = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) inode_cache = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) keep_comments_cpp = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) limit_multiple = 0.8
+[2023-05-05T18:07:26.766500 18400] Config: (environment) log_file = C:\Users\Dyce3\OneDrive\Desktop\TURNCO~1\output\turncounter.build\ccache-15312.txt
+[2023-05-05T18:07:26.766500 18400] Config: (default) max_files = 0
+[2023-05-05T18:07:26.766500 18400] Config: (default) max_size = 5.0G
+[2023-05-05T18:07:26.766500 18400] Config: (default) namespace = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) path = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) pch_external_checksum = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) prefix_command = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) prefix_command_cpp = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) read_only = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) read_only_direct = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) recache = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) reshare = false
+[2023-05-05T18:07:26.766500 18400] Config: (default) run_second_cpp = true
+[2023-05-05T18:07:26.766500 18400] Config: (default) secondary_storage = 
+[2023-05-05T18:07:26.766500 18400] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-05T18:07:26.766500 18400] Config: (default) stats = true
+[2023-05-05T18:07:26.766500 18400] Config: (default) stats_log = 
+[2023-05-05T18:07:26.766500 18400] Config: (default) temporary_dir = C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-05T18:07:26.766500 18400] Config: (default) umask = 
+[2023-05-05T18:07:26.766500 18400] Command line: C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.tkinter-preLoad.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=155 -D_NUITKA_EXE -IC:\Users\Dyce3\AppData\Local\Programs\Python\Python311\include -I. -IC:\Users\Dyce3\AppData\Local\Programs\Python\PYTHON~1\Lib\SITE-P~1\nuitka\build\include -IC:\Users\Dyce3\AppData\Local\Programs\Python\PYTHON~1\Lib\SITE-P~1\nuitka\build\static_src module.tkinter-preLoad.c
+[2023-05-05T18:07:26.783805 12344] Hostname: Fleatop
+[2023-05-05T18:07:26.783805 18400] Hostname: Fleatop
+C:/Users/Dyce3/OneDrive/Desktop/TURNCO~1/output/turncounter.build
+[2023-05-05T18:07:26.783805 16076] Working directory: C:/Users/Dyce3/OneDrive/Desktop/TURNCO~1/output/turncounter.build
+[2023-05-05T18:07:26.783805 18400] Working directory: C[2023-05-05T18:07:26.783805 16076] Compiler type: gcc
+ter.build
+[2023-05-05T18:07:26.783805 18400] Compiler type: gcc
+[2023-05-05T18:07:26.784304 11076] Hostname: Fleatop
+[2023-05-05T18:07:26.784304 11076] Working directory: C:/Users/Dyce3/OneDrive/Desktop/TURNCO~1/output/turncounter.build
+[2023-05-05T18:07:26.784304 11076] Compiler type: gcc
+[2023-05-05T18:07:26.784304 7064 ] Hostname: Fleatop
+[2023-05-05T18:07:26.784304 7064 ] Working directory: C:/Users/Dyce3/OneDrive/Desktop/TURNCO~1/output/turncounter.build
+[2023-05-05T18:07:26.784304 7064 ] Compiler type: gcc
+[2023-05-05T18:07:26.784304 12168] Hostname: Fleatop
+[2023-05-05T18:07:26.784304 12168] Working directory: C:/Users/Dyce3/OneDrive/Desktop/TURNCO~1/output/turncounter.build
+[2023-05-05T18:07:26.784304 12168] Compiler type: gcc
+[2023-05-05T18:07:26.785813 12344] Source file: module.__main__.c
+[2023-05-05T18:07:26.785813 12344] Object file: module.__main__.o
+[2023-05-05T18:07:26.785813 12168] Source file: __constants.[2023-05-05T18:07:26.785813 11076] Source file: __helpers.c
+[2023-05-05T18:07:26.785813 12168] Object file: __constants.o
+[2023-05-05T18:07:26.785813 11076] Object file: __helpers.o
+[2023-05-05T18:07:26.785813 7064 ] Source file: static_src\MainProgram.c
+[2023-05-05T18:07:26.785813 7064 ] Object file: static_src\MainProgram.o
+[2023-05-05T18:07:26.785813 18400] Source file: module.tkinter-preLoad.c
+[2023-05-05T18:07:26.785813 18400] Object file: module.tkinter-preLoad.o
+[2023-05-05T18:07:26.785813 16076] Trying direct lookup
+[2023-05-05T18:07:26.786316 11076] Trying direct lookup
+[2023-05-05T18:07:26.786316 7064 ] Trying direct lookup
+[2023-05-05T18:07:26.786316 18400] Trying direct lookup
+[2023-05-05T18:07:26.786316 12168] No ceb116jul0vh62f10d2femf88tn6p0hfg in primary storage
+[2023-05-05T18:07:26.786316 11076] No ce5fbmlpdvsjpha38v2qp5112i9vmtvk6 in primary storage
+[2023-05-05T18:07:26.786316 16076] No a99dpntap2tcdtqbnfmpvtujhphmgi4ou in primary storage
+[2023-05-05T18:07:26.786316 18400] No 82110gehqat1r0mq48kdi3s864u85608u in primary storage
+[2023-05-05T18:07:26.786316 7064 ] No f1c5cslu8vcbfar97vtq0dgq2gnu45qhm in primary storage
+[2023-05-05T18:07:26.787851 12344] No 7506j6tmr8b1stm4am4jik6cuufml61ck in primary storage
+[2023-05-05T18:07:26.794914 16076] Running preprocessor
+[2023-05-05T18:07:26.795396 12168] Running preprocessor
+[2023-05-05T18:07:26.795894 11076] Running preprocessor
+[2023-05-05T18:07:26.795894 7064 ] Running preprocessor
+[2023-05-05T18:07:26.796394 12344] Running preprocessor
+[2023-05-05T18:07:26.796394 18400] Running preprocessor
+[2023-05-05T18:07:27.508985 13316] === CCACHE 4.6 STARTED =========================================
+[2023-05-05T18:07:27.508985 13316] Config: (default) absolute_paths_in_stderr = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) base_dir = 
+[2023-05-05T18:07:27.508985 13316] Config: (environment) cache_dir = C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-05T18:07:27.508985 13316] Config: (default) compiler = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) compiler_check = mtime
+[2023-05-05T18:07:27.508985 13316] Config: (default) compiler_type = auto
+[2023-05-05T18:07:27.508985 13316] Config: (default) compression = true
+[2023-05-05T18:07:27.508985 13316] Config: (default) compression_level = 0
+[2023-05-05T18:07:27.508985 13316] Config: (default) cpp_extension = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) debug = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) debug_dir = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) depend_mode = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) direct_mode = true
+[2023-05-05T18:07:27.508985 13316] Config: (default) disable = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) extra_files_to_hash = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) file_clone = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) hard_link = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) hash_dir = true
+[2023-05-05T18:07:27.508985 13316] Config: (default) ignore_headers_in_manifest = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) ignore_options = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) inode_cache = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) keep_comments_cpp = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) limit_multiple = 0.8
+[2023-05-05T18:07:27.508985 13316] Config: (environment) log_file = C:\Users\Dyce3\OneDrive\Desktop\TURNCO~1\output\turncounter.build\ccache-15312.txt
+[2023-05-05T18:07:27.508985 13316] Config: (default) max_files = 0
+[2023-05-05T18:07:27.508985 13316] Config: (default) max_size = 5.0G
+[2023-05-05T18:07:27.508985 13316] Config: (default) namespace = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) path = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) pch_external_checksum = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) prefix_command = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) prefix_command_cpp = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) read_only = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) read_only_direct = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) recache = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) reshare = false
+[2023-05-05T18:07:27.508985 13316] Config: (default) run_second_cpp = true
+[2023-05-05T18:07:27.508985 13316] Config: (default) secondary_storage = 
+[2023-05-05T18:07:27.508985 13316] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-05T18:07:27.508985 13316] Config: (default) stats = true
+[2023-05-05T18:07:27.508985 13316] Config: (default) stats_log = 
+[2023-05-05T18:07:27.508985 13316] Config: (default) temporary_dir = C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-05T18:07:27.508985 13316] Config: (default) umask = 
+[2023-05-05T18:07:27.508985 13316] Command line: C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_STANDALONE -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=155 -D_NUITKA_EXE -IC:\Users\Dyce3\AppData\Local\Programs\Python\Python311\include -I. -IC:\Users\Dyce3\AppData\Local\Programs\Python\PYTHON~1\Lib\SITE-P~1\nuitka\build\include -IC:\Users\Dyce3\AppData\Local\Programs\Python\PYTHON~1\Lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2023-05-05T18:07:27.514990 13316] Hostname: Fleatop
+[2023-05-05T18:07:27.514990 13316] Working directory: C:/Users/Dyce3/OneDrive/Desktop/TURNCO~1/output/turncounter.build
+[2023-05-05T18:07:27.514990 13316] Compiler type: gcc
+[2023-05-05T18:07:27.514990 13316] Source file: static_src\CompiledFunctionType.c
+[2023-05-05T18:07:27.514990 13316] Object file: static_src\CompiledFunctionType.o
+[2023-05-05T18:07:27.514990 13316] Trying direct lookup
+[2023-05-05T18:07:27.516111 13316] No 1f82g0itjbalpk72quk027qe8tl4g9c06 in primary storage
+[2023-05-05T18:07:27.517628 13316] Running preprocessor
+[2023-05-05T18:07:27.857557 16076] Got result key from preprocessor
+[2023-05-05T18:07:27.857557 16076] No 7ebfartnf53l9ia3fscrh3pm812i3bhma in primary storage
+[2023-05-05T18:07:27.857557 16076] Running real compiler
+[2023-05-05T18:07:28.062091 16076] Using default compression level 1
+[2023-05-05T18:07:28.062591 16076] Storing embedded entry #0 .o (28130 bytes) from __loader.o
+[2023-05-05T18:07:28.064101 16076] Stored 7ebfartnf53l9ia3fscrh3pm812i3bhma in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/e/bfartnf53l9ia3fscrh3pm812i3bhmaR)
+[2023-05-05T18:07:28.065106 16076] Adding result key to C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/9/9dpntap2tcdtqbnfmpvtujhphmgi4ouM
+[2023-05-05T18:07:28.075771 16076] Using default compression level 1
+[2023-05-05T18:07:28.077283 16076] Stored a99dpntap2tcdtqbnfmpvtujhphmgi4ou in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/9/9dpntap2tcdtqbnfmpvtujhphmgi4ouM)
+[2023-05-05T18:07:28.077790 16076] Result: cache_miss
+[2023-05-05T18:07:28.077790 16076] Result: direct_cache_miss
+[2023-05-05T18:07:28.077790 16076] Result: preprocessed_cache_miss
+[2023-05-05T18:07:28.077790 16076] Result: primary_storage_miss
+[2023-05-05T18:07:28.077790 16076] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-05-05T18:07:28.078790 16076] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-05-05T18:07:28.079290 16076] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-05-05T18:07:28.080790 16076] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-05-05T18:07:28.080790 16076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.O6V7X6
+[2023-05-05T18:07:28.080790 16076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.1xBdm7
+[2023-05-05T18:07:28.081290 16076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.9U69ZS
+[2023-05-05T18:07:28.081290 16076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.GOF4DO.i
+[2023-05-05T18:07:28.081290 16076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.GOF4DO
+[2023-05-05T18:07:29.878499 11076] Got result key from preprocessor
+[2023-05-05T18:07:29.879005 11076] No 4d08qimbl2q46m3vqpg0a221cn8m79870 in primary storage
+[2023-05-05T18:07:29.879005 11076] Running real compiler
+[2023-05-05T18:07:29.892556 12168] Got result key from preprocessor
+[2023-05-05T18:07:29.892556 12168] No 6b5foptaq62jvrohsvu6fos5mpde73urc in primary storage
+[2023-05-05T18:07:29.892556 12168] Running real compiler
+[2023-05-05T18:07:29.893622 18400] Got result key from preprocessor
+[2023-05-05T18:07:29.893622 18400] No f45a9kfp8goltbqhk6g5ha8p7oi2legka in primary storage
+[2023-05-05T18:07:29.893622 18400] Running real compiler
+[2023-05-05T18:07:29.896145 7064 ] Got result key from preprocessor
+[2023-05-05T18:07:29.896145 7064 ] No a6f14hslhbsdfknvvj3099pgtqga8ehqu in primary storage
+[2023-05-05T18:07:29.896145 7064 ] Running real compiler
+[2023-05-05T18:07:29.953776 12344] Got result key from preprocessor
+[2023-05-05T18:07:29.953776 12344] No 785510i6v7mjg5o7c4b9rtm70rnh16ap2 in primary storage
+[2023-05-05T18:07:29.953776 12344] Running real compiler
+[2023-05-05T18:07:31.251848 11076] Using default compression level 1
+[2023-05-05T18:07:31.251848 11076] Storing embedded entry #0 .o (466 bytes) from __helpers.o
+[2023-05-05T18:07:31.253354 11076] Stored 4d08qimbl2q46m3vqpg0a221cn8m79870 in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/d/08qimbl2q46m3vqpg0a221cn8m79870R)
+[2023-05-05T18:07:31.253862 11076] Adding result key to C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/e/5fbmlpdvsjpha38v2qp5112i9vmtvk6M
+[2023-05-05T18:07:31.282584 11076] Using default compression level 1
+[2023-05-05T18:07:31.285211 11076] Stored ce5fbmlpdvsjpha38v2qp5112i9vmtvk6 in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/e/5fbmlpdvsjpha38v2qp5112i9vmtvk6M)
+[2023-05-05T18:07:31.285708 11076] Result: cache_miss
+[2023-05-05T18:07:31.285708 11076] Result: direct_cache_miss
+[2023-05-05T18:07:31.285708 11076] Result: preprocessed_cache_miss
+[2023-05-05T18:07:31.285708 11076] Result: primary_storage_miss
+[2023-05-05T18:07:31.286208 11076] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-05-05T18:07:31.286208 12168] Using default compression level 1
+[2023-05-05T18:07:31.286208 12168] Storing embedded entry #0 .o (2801 bytes) from __constants.o
+[2023-05-05T18:07:31.287216 11076] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-05-05T18:07:31.287723 11076] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2023-05-05T18:07:31.287723 12168] Stored 6b5foptaq62jvrohsvu6fos5mpde73urc in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/b/5foptaq62jvrohsvu6fos5mpde73urcR)
+[2023-05-05T18:07:31.288731 12168] Adding result key to C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/e/b116jul0vh62f10d2femf88tn6p0hfgM
+[2023-05-05T18:07:31.288731 11076] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2023-05-05T18:07:31.289239 11076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.DhoV8K
+[2023-05-05T18:07:31.289239 11076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.HSPGRX
+[2023-05-05T18:07:31.289239 11076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.GpNB9i
+[2023-05-05T18:07:31.289738 11076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ZdpEaZ.i
+[2023-05-05T18:07:31.290238 11076] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.ZdpEaZ
+[2023-05-05T18:07:31.316403 12168] Using default compression level 1
+[2023-05-05T18:07:31.318523 12168] Stored ceb116jul0vh62f10d2femf88tn6p0hfg in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/e/b116jul0vh62f10d2femf88tn6p0hfgM)
+[2023-05-05T18:07:31.318523 12168] Result: cache_miss
+[2023-05-05T18:07:31.318523 12168] Result: direct_cache_miss
+[2023-05-05T18:07:31.318523 12168] Result: preprocessed_cache_miss
+[2023-05-05T18:07:31.318523 12168] Result: primary_storage_miss
+[2023-05-05T18:07:31.319533 12168] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-05-05T18:07:31.320540 12168] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2023-05-05T18:07:31.321040 12168] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-05-05T18:07:31.322040 12168] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2023-05-05T18:07:31.322040 12168] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.GcDicH
+[2023-05-05T18:07:31.322040 12168] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.M1ktGS
+[2023-05-05T18:07:31.322539 12168] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.3MhCNT
+[2023-05-05T18:07:31.322539 12168] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.EYGCpk.i
+[2023-05-05T18:07:31.322539 12168] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.EYGCpk
+[2023-05-05T18:07:31.383769 7064 ] Using default compression level 1
+[2023-05-05T18:07:31.383769 7064 ] Storing embedded entry #0 .o (9179 bytes) from static_src\MainProgram.o
+[2023-05-05T18:07:31.384807 7064 ] Stored a6f14hslhbsdfknvvj3099pgtqga8ehqu in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/6/f14hslhbsdfknvvj3099pgtqga8ehquR)
+[2023-05-05T18:07:31.385313 7064 ] Adding result key to C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/1/c5cslu8vcbfar97vtq0dgq2gnu45qhmM
+[2023-05-05T18:07:31.411627 7064 ] Using default compression level 1
+[2023-05-05T18:07:31.411627 18400] Using default compression level 1
+[2023-05-05T18:07:31.411627 18400] Storing embedded entry #0 .o (8546 bytes) from module.tkinter-preLoad.o
+[2023-05-05T18:07:31.412712 18400] Stored f45a9kfp8goltbqhk6g5ha8p7oi2legka in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/4/5a9kfp8goltbqhk6g5ha8p7oi2legkaR)
+[2023-05-05T18:07:31.412712 18400] Adding result key to C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/2/110gehqat1r0mq48kdi3s864u85608uM
+[2023-05-05T18:07:31.413722 7064 ] Stored f1c5cslu8vcbfar97vtq0dgq2gnu45qhm in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/1/c5cslu8vcbfar97vtq0dgq2gnu45qhmM)
+[2023-05-05T18:07:31.413722 7064 ] Result: cache_miss
+[2023-05-05T18:07:31.413722 7064 ] Result: direct_cache_miss
+[2023-05-05T18:07:31.413722 7064 ] Result: preprocessed_cache_miss
+[2023-05-05T18:07:31.413722 7064 ] Result: primary_storage_miss
+[2023-05-05T18:07:31.414729 7064 ] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-05-05T18:07:31.415729 7064 ] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-05-05T18:07:31.416229 7064 ] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-05-05T18:07:31.418243 7064 ] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2023-05-05T18:07:31.424301 7064 ] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.HPTXGk
+[2023-05-05T18:07:31.424800 7064 ] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.l5pUGu
+[2023-05-05T18:07:31.424800 7064 ] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.0GD8Tw
+[2023-05-05T18:07:31.424800 7064 ] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.zOEX6T.i
+[2023-05-05T18:07:31.425801 7064 ] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.zOEX6T
+[2023-05-05T18:07:31.449458 18400] Using default compression level 1
+[2023-05-05T18:07:31.450958 18400] Stored 82110gehqat1r0mq48kdi3s864u85608u in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/2/110gehqat1r0mq48kdi3s864u85608uM)
+[2023-05-05T18:07:31.451459 18400] Result: cache_miss
+[2023-05-05T18:07:31.451459 18400] Result: direct_cache_miss
+[2023-05-05T18:07:31.451459 18400] Result: preprocessed_cache_miss
+[2023-05-05T18:07:31.451459 18400] Result: primary_storage_miss
+[2023-05-05T18:07:31.451958 18400] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-05-05T18:07:31.453469 18400] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-05-05T18:07:31.453976 18400] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-05-05T18:07:31.454975 18400] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2023-05-05T18:07:31.454975 18400] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.4i58yZ
+[2023-05-05T18:07:31.454975 18400] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.O7I0L0
+[2023-05-05T18:07:31.456039 18400] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.lHYLiF
+[2023-05-05T18:07:31.456039 18400] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.6BOpKb.i
+[2023-05-05T18:07:31.457555 18400] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.6BOpKb
+[2023-05-05T18:07:31.484842 13316] Got result key from preprocessor
+[2023-05-05T18:07:31.484842 13316] No dc74227krb36qjfhjfbt38ps0f6agn9v8 in primary storage
+[2023-05-05T18:07:31.484842 13316] Running real compiler
+[2023-05-05T18:07:33.149592 12344] Using default compression level 1
+[2023-05-05T18:07:33.149592 12344] Storing embedded entry #0 .o (86749 bytes) from module.__main__.o
+[2023-05-05T18:07:33.155672 12344] Stored 785510i6v7mjg5o7c4b9rtm70rnh16ap2 in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/5510i6v7mjg5o7c4b9rtm70rnh16ap2R)
+[2023-05-05T18:07:33.156172 12344] Adding result key to C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/06j6tmr8b1stm4am4jik6cuufml61ckM
+[2023-05-05T18:07:33.212559 12344] Using default compression level 1
+[2023-05-05T18:07:33.214569 12344] Stored 7506j6tmr8b1stm4am4jik6cuufml61ck in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/5/06j6tmr8b1stm4am4jik6cuufml61ckM)
+[2023-05-05T18:07:33.214569 12344] Result: cache_miss
+[2023-05-05T18:07:33.214569 12344] Result: direct_cache_miss
+[2023-05-05T18:07:33.214569 12344] Result: preprocessed_cache_miss
+[2023-05-05T18:07:33.214569 12344] Result: primary_storage_miss
+[2023-05-05T18:07:33.214569 12344] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-05-05T18:07:33.219593 12344] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-05-05T18:07:33.219593 12344] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-05-05T18:07:33.224611 12344] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-05-05T18:07:33.224611 12344] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.m69Oie
+[2023-05-05T18:07:33.224611 12344] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.ecYET1
+[2023-05-05T18:07:33.225619 12344] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.VpBGos
+[2023-05-05T18:07:33.225619 12344] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.0OhFGx.i
+[2023-05-05T18:07:33.226625 12344] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.0OhFGx
+[2023-05-05T18:07:52.146520 13316] Using default compression level 1
+[2023-05-05T18:07:52.146520 13316] Storing embedded entry #0 .o (888397 bytes) from static_src\CompiledFunctionType.o
+[2023-05-05T18:07:52.152140 13316] Stored dc74227krb36qjfhjfbt38ps0f6agn9v8 in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/74227krb36qjfhjfbt38ps0f6agn9v8R)
+[2023-05-05T18:07:52.152637 13316] Adding result key to C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/f/82g0itjbalpk72quk027qe8tl4g9c06M
+[2023-05-05T18:07:52.180572 13316] Using default compression level 1
+[2023-05-05T18:07:52.182160 13316] Stored 1f82g0itjbalpk72quk027qe8tl4g9c06 in primary storage (C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/f/82g0itjbalpk72quk027qe8tl4g9c06M)
+[2023-05-05T18:07:52.182661 13316] Result: cache_miss
+[2023-05-05T18:07:52.182661 13316] Result: direct_cache_miss
+[2023-05-05T18:07:52.182661 13316] Result: preprocessed_cache_miss
+[2023-05-05T18:07:52.182661 13316] Result: primary_storage_miss
+[2023-05-05T18:07:52.183684 13316] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-05-05T18:07:52.184704 13316] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2023-05-05T18:07:52.185194 13316] Acquired lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-05-05T18:07:52.186195 13316] Releasing lock C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-05-05T18:07:52.186195 13316] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.1JSlgH
+[2023-05-05T18:07:52.186195 13316] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.ik7ra6
+[2023-05-05T18:07:52.186195 13316] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.TMbTi2
+[2023-05-05T18:07:52.186195 13316] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.WIBBIg.i
+[2023-05-05T18:07:52.187206 13316] Unlink C:\Users\Dyce3\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.WIBBIg
